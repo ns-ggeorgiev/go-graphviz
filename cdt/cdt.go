@@ -3,7 +3,7 @@ package cdt
 import (
 	"unsafe"
 
-	"github.com/goccy/go-graphviz/internal/ccall"
+	"github.com/ns-ggeorgiev/go-graphviz/internal/ccall"
 )
 
 type Dict struct {

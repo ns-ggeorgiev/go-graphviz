@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/goccy/go-graphviz"
+	"github.com/ns-ggeorgiev/go-graphviz"
 )
 
 func TestGraphviz_Image(t *testing.T) {

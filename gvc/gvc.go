@@ -5,8 +5,8 @@ import (
 	"io"
 	"unsafe"
 
-	"github.com/goccy/go-graphviz/cgraph"
-	"github.com/goccy/go-graphviz/internal/ccall"
+	"github.com/ns-ggeorgiev/go-graphviz/cgraph"
+	"github.com/ns-ggeorgiev/go-graphviz/internal/ccall"
 )
 
 type Context struct {

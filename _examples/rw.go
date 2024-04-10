@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"log"
 
-	"github.com/goccy/go-graphviz"
+	"github.com/ns-ggeorgiev/go-graphviz"
 )
 
 func renderDOTGraph() ([]byte, error) {
